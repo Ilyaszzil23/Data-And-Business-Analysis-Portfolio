@@ -18,5 +18,7 @@ I believe that with dedication, continuous learning, and perseverance, I can hel
 
 My CV in [pdf](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/4dde531039a9ee1772de3a3eec77704ae167ed0e/Ilyas_Mohamed_CV.pdf).
 
-##Table of contents
+This is a repository to showcase skills, share projects and track my progress in Data & Business Analytics related topics.
+
+## Table of contents
 
