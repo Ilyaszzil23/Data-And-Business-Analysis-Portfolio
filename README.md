@@ -1,4 +1,4 @@
-# Ilyas Mohamed - Data / Business Analyst Portfoloi
+# Ilyas Mohamed - Data / Business Analyst Portfolio
 
 ## About
 
