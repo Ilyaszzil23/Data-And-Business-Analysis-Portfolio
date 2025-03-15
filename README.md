@@ -16,4 +16,4 @@ supporting businesses in driving innovation and improving their impact on societ
 
 I believe that with dedication, continuous learning, and perseverance, I can help businesses unlock their full potential for a better world.
 
-My CV in [pdf](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/4dde531039a9ee1772de3a3eec77704ae167ed0e/Ilyas_Mohamed_CV.pdf) .
+My CV in [pdf](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/4dde531039a9ee1772de3a3eec77704ae167ed0e/Ilyas_Mohamed_CV.pdf).
