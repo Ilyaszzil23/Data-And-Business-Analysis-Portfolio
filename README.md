@@ -20,4 +20,4 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of contents
   -[About](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#About)
-  
+  -
