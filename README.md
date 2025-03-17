@@ -19,19 +19,19 @@ My CV in [pdf](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfol
 This is a repository to showcase skills, share projects and track my progress in Data & Business Analytics related topics.
 
 ## Table of contents
-  -[About](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#About)
+-[About](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#About)
 
-  -[Portfolio Projects]()
+-[Portfolio Projects]()
 
-    -Python:
+  -Python:
       -[Basketball Free Throws](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#Basketball Free Throws)
       -[World Trends](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#World Trends)
 
-    SQL:
+  -SQL:
       -[Employees - The SQL Case statement](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#[Employees - The SQL Case statement)
       -[Employees - The LAG() and LEAD() value Window function](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#Employees - The LAG() and LEAD() value Window function)
 
-    Business Analysis:
+  -Business Analysis:
       -[Enchancing Customer Experience at Primark](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#Enchancing Customer Experience at Primark)
 
   -Education
