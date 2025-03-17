@@ -55,6 +55,68 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Portfolio Projects
 
-In this section I will list data and business analytics projects briefly describing the technology stack and techniques used to solve cases.
+In this section I will list data and business analytics projects briefly describing the technology stack and business technique used to solve cases.
 
+## Basketball Free Throws
+
+**Goal statement:**
+
+**Code:**
+
+**Description:**
+
+**Skills:**
+
+**Tools:**
+
+## World Trends
+
+**Goal statement:**
+
+**Code:**
+
+**Description:**
+
+**Skills:**
+
+**Tools:**
+
+
+** Employees - The SQL Case statement
+
+**Goal statement:**
+
+**Code:**
+
+**Description:**
+
+**Skills:**
+
+**Tools:**
+
+## Employees - The LAG() and LEAD() value Window function
+
+**Goal statement:**
+
+**Code:**
+
+**Description:**
+
+**Skills:**
+
+**Tools:**
+
+## Enchancing Customer Experience at Primark
+
+**Goal statement:**
+
+**Defining the problem:**
+
+**Gathering and Analysing Requirements:**
+
+**Insights and Recommendations:**
+
+**Communicating insights to Stakeholders:**
+
+**Results & Conclusion:**
 
