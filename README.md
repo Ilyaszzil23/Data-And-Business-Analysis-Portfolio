@@ -21,7 +21,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of contents
 -[About](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#About)
 
--[Portfolio Projects]()
+-[Portfolio Projects](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#Portfolio Projects)
 
   -Python:
     -[Basketball Free Throws](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#Basketball Free Throws)
@@ -34,8 +34,9 @@ This is a repository to showcase skills, share projects and track my progress in
   -Business Analysis:
       -[Enchancing Customer Experience at Primark](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#Enchancing Customer Experience at Primark)
 
+
 -Education
-
 -Certificates
-
 -Contact
+
+##Portfolio Projects
