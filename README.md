@@ -23,24 +23,24 @@ This is a repository to showcase skills, share projects and track my progress in
  
  - [Portfolio Projects](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#Portfolio-Projects)
 
-- Python:
+   - Python:
 
-    - [Basketball Free Throws](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#Basketball-Free-Throws)
+     - [Basketball Free Throws](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#Basketball-Free-Throws)
  
  
-    - [World Trends](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#World-Trends)
+     - [World Trends](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#World-Trends)
 
-- SQL:
+  - SQL:
 
-    - [The SQL Case Statement in Employees](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#The-SQL-Case-Statement-in-Employees)
-
-
-    - [The LAG and LEAD Value Window Function in Employees](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#The-LAG-and-LEAD-Value-Window-Function-in-Employees)
+     - [The SQL Case Statement in Employees](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#The-SQL-Case-Statement-in-Employees)
 
 
-- Business Analysis
+     - [The LAG and LEAD Value Window Function in Employees](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#The-LAG-and-LEAD-Value-Window-Function-in-Employees)
 
-  - [Enchancing Customer Experience at Primark](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#Enchancing-Customer-Experience-at-Primark)
+
+  - Business Analysis
+
+    - [Enchancing Customer Experience at Primark](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#Enchancing-Customer-Experience-at-Primark)
 
 
  - Education
