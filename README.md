@@ -21,4 +21,5 @@ My CV in [pdf](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfol
 This is a repository to showcase skills, share projects and track my progress in Data & Business Analytics related topics.
 
 ## Table of contents
-
+  -[About](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/edit/main/README.md#About)
+  
