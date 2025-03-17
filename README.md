@@ -26,27 +26,33 @@ This is a repository to showcase skills, share projects and track my progress in
 
 •Python:
 
- ○[Basketball Free Throws](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#Basketball-Free-Throws)
+    ○[Basketball Free Throws](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#Basketball-Free-Throws)
  
  
- ○[World Trends](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#World-Trends)
+    ○[World Trends](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#World-Trends)
 
 •SQL:
-  
- ○[Employees - The SQL Case statement](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#[Employees-The-SQL-Case-statement)
+
+    ○[Employees - The SQL Case statement](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#[Employees-The-SQL-Case-statement)
 
 
- ○[Employees - The LAG() and LEAD() value Window function](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#Employees-The-LAG()-and-LEAD()-value-Window-function)
+    ○[Employees - The LAG() and LEAD() value Window function](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#Employees-The-LAG()-and-LEAD()-value-Window-function)
 
 
 •Business Analysis
 
- ○[Enchancing Customer Experience at Primark](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#Enchancing-Customer-Experience-at-Primark)
+    ○[Enchancing Customer Experience at Primark](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#Enchancing-Customer-Experience-at-Primark)
 
 
 •Education
+
+
 •Certificates
+
+
 •Contact
+
+
 
 ##Portfolio Projects
 
