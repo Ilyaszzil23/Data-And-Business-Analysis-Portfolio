@@ -82,7 +82,7 @@ In this section I will list data and business analytics projects briefly describ
 **Tools:**
 
 
-** Employees - The SQL Case statement
+## Employees - The SQL Case statement
 
 **Goal statement:**
 
