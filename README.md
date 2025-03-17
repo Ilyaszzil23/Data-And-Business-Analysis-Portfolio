@@ -63,6 +63,8 @@ In this section I will list data and business analytics projects briefly describ
 
 **Code:** ['Basketball Free Throws.ipynb'](https://github.com/Ilyaszzil23/Portfolio-Projects/blob/main/Basketball%20Free%20Throws.ipynb)
 
+**Raw Data:** ['BasketBall free throws-Dataset.docx']('https://github.com/Ilyaszzil23/Portfolio-Projects/blob/main/BasketBall%20free%20throws-Dataset.docx')
+
 **Description:**
 
 **Skills:**
@@ -74,6 +76,8 @@ In this section I will list data and business analytics projects briefly describ
 **Goal statement:**
 
 **Code:**
+
+**Raw Data:**
 
 **Description:**
 
@@ -88,6 +92,8 @@ In this section I will list data and business analytics projects briefly describ
 
 **Code:**
 
+**Raw Data:**
+
 **Description:**
 
 **Skills:**
@@ -99,6 +105,8 @@ In this section I will list data and business analytics projects briefly describ
 **Goal statement:**
 
 **Code:**
+
+**Raw Data:**
 
 **Description:**
 
