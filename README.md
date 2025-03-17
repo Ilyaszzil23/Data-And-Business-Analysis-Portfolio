@@ -32,10 +32,10 @@ This is a repository to showcase skills, share projects and track my progress in
 
 - SQL:
 
-    - [Employees - The SQL Case statement](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#[Employees-The-SQL-Case-statement)
+    - [The SQL Case Statement in Employees](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#The-SQL-Case-Statement-in-Employees)
 
 
-    - [Employees - The LAG() and LEAD() value Window function](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#Employees-The-LAG()-and-LEAD()-value-Window-function)
+    - [The LAG() and LEAD() Value Window Function in Employees](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#EThe-LAG()-and-LEAD()-Value-Window-Function-in-Employees)
 
 
 - Business Analysis
@@ -82,7 +82,7 @@ In this section I will list data and business analytics projects briefly describ
 **Tools:**
 
 
-## Employees - The SQL Case statement
+## The SQL Case Statement in Employees
 
 **Goal statement:**
 
@@ -94,7 +94,7 @@ In this section I will list data and business analytics projects briefly describ
 
 **Tools:**
 
-## Employees - The LAG() and LEAD() value Window function
+## The LAG() and LEAD() Value Window Function in Employees
 
 **Goal statement:**
 
