@@ -55,4 +55,6 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Portfolio Projects
 
+In this section I will list data and business analytics projects briefly describing the technology stack and techniques used to solve cases.
+
 
