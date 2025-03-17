@@ -35,7 +35,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [The SQL Case Statement in Employees](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#The-SQL-Case-Statement-in-Employees)
 
 
-    - [The LAG() and LEAD() Value Window Function in Employees](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#EThe-LAG()-and-LEAD()-Value-Window-Function-in-Employees)
+    - [The LAG() and LEAD() Value Window Function in Employees](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#The-LAG()-and-LEAD()-Value-Window-Function-in-Employees)
 
 
 - Business Analysis
