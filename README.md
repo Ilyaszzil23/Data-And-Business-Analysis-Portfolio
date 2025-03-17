@@ -2,8 +2,6 @@
 
 ## About
 
-About Me
-
 I am Ilyas, an ambitious individual with a strong background in Business and Mathematics (Joint Honours). With a passion for data analysis and problem-solving, I am currently 
 expanding my expertise through Business Intelligence courses on Udemy.
 
