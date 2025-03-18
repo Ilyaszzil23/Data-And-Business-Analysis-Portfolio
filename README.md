@@ -1,5 +1,7 @@
 # Ilyas Mohamed - Data / Business Analyst Portfolio
 
+##HI!
+
 ## About
 
 I am Ilyas, an ambitious individual with a strong background in Business and Mathematics (Joint Honours). With a passion for data analysis and problem-solving, I am currently 
