@@ -59,17 +59,23 @@ In this section I will list data and business analytics projects briefly describ
 
 ## Basketball Free Throws
 
-**Goal statement:**
+**Goal statement:** The objective to  analyse basketball free throws performance and player scoring tendencies using the  provided data. This will involve creating two matrices from the given vectors to generate three key visual insights:
+
+ 1.Free Throw Attempts per Game - To assess player's frequency of attempting free throws.
+ 2.Free Throw Accuracy - To evaluate players' efficiency in coverting free throws.
+ 3.Player Playing Style Analysis - To identify player's scoring preferences between 2-point and 3-point shots, excluding free throws.
+
+ This analysis aims to provide actionable insights into player performance and strong strategies.
 
 **Code:** ['Basketball Free Throws.ipynb'](https://github.com/Ilyaszzil23/Portfolio-Projects/blob/main/Basketball%20Free%20Throws.ipynb)
 
 **Raw Data:** ['BasketBall free throws-Dataset.docx'](https://github.com/Ilyaszzil23/Portfolio-Projects/blob/main/BasketBall%20free%20throws-Dataset.docx)
 
-**Description:**
+**Description:** This project applied matrix manipulation techniques in Python to create visual insights about player performance. Leveraging NumPy and Pandas, data was transformed into matrices representing shot attempts and success rates. Visualisation libraries such as Matplotlib were used to present clear and insightful visualisations, enhancing the understanding of player tendencies and performance.
 
-**Skills:**
+**Skills:** data visualisation, data cleaning, matrix, computation,
 
-**Tools:**
+**Tools:** Jupyter Notebook, Visual Studio Code (Offline), Matplotib, NumPy, Pandas
 
 ## World Trends
 
