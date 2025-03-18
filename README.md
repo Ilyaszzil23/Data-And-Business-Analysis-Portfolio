@@ -142,7 +142,7 @@ This query aims  to provide a comprehensive view of salary progression for the s
 
 ## Enchancing Customer Experience at Primark 
 
-Please see in my ['CV.pdf'](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/4dde531039a9ee1772de3a3eec77704ae167ed0e/Ilyas_Mohamed_CV.pdf) for my work experience at Primark
+Please see in my [CV](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/4dde531039a9ee1772de3a3eec77704ae167ed0e/Ilyas_Mohamed_CV.pdf) for my work experience at Primark
 
 **Goal statement:** To improve customer statisfaction and shopping experience by identifying key issues, analysing feedback data, and recommending actionable solutions
 
