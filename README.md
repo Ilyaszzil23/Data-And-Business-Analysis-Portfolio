@@ -1,6 +1,6 @@
 # Ilyas Mohamed - Data / Business Analyst Portfolio
 
-## HI!
+## HI! I hope you enjoy reading my Portfoli Project
 
 ## About
 
