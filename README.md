@@ -69,17 +69,23 @@ In this section I will list data and business analytics projects briefly describ
 
 **Code:** ['Basketball Free Throws.ipynb'](https://github.com/Ilyaszzil23/Portfolio-Projects/blob/main/Basketball%20Free%20Throws.ipynb)
 
-**Raw Data:** ['BasketBall free throws-Dataset.docx'](https://github.com/Ilyaszzil23/Portfolio-Projects/blob/main/BasketBall%20free%20throws-Dataset.docx)
+**Raw Data:** ['BasketBall free throws-Dataset.pdf'](https://github.com/Ilyaszzil23/Portfolio-Projects/blob/main/BasketBall%20free%20throws-Dataset.pdf)
 
-**Description:** This project applied matrix manipulation techniques in Python to create visual insights about player performance. Leveraging NumPy and Pandas, data was transformed into matrices representing shot attempts and success rates. Visualisation libraries such as Matplotlib were used to present clear and insightful visualisations, enhancing the understanding of player tendencies and performance.
+**Description:** This project applied matrix manipulation techniques in Python to create visual insights about player performance. Leveraging NumPy, data was transformed into matrices representing shot attempts and success rates. Visualisation libraries such as Matplotlib were used to present clear and insightful visualisations, enhancing the understanding of player tendencies and performance.
 
 **Skills:** data visualisation, data cleaning, matrix, computation,
 
-**Tools:** Jupyter Notebook, Visual Studio Code (Offline), Matplotib, NumPy, Pandas
+**Tools:** Jupyter Notebook, Visual Studio Code (Offline), Matplotib, NumPy
 
 ## World Trends
 
-**Goal statement:**
+**Goal statement:** The objective is to analyse and visualise the relationship between Life Expectancy and Fertility Rate across countries, categorised by region. Using Data from 1960 and 2013, the analyse will inovlve:
+
+1. Creating Scatterplots for each year to illustrate the corrlation between Life Expectancy (y-axis) and Fertility Rate (x-axis).
+2. Ensuring data manipulations are conducted in Python for auditability.
+3. Providing insights into how these metrices have evolved over time, highlighting regional trends, and significant changes.
+
+This analysis aims to support the World bank's understanding of global health and demographic shifts.
 
 **Code:**
 
