@@ -61,9 +61,9 @@ In this section I will list data and business analytics projects briefly describ
 
 **Goal statement:** The objective to  analyse basketball free throws performance and player scoring tendencies using the  provided data. This will involve creating two matrices from the given vectors to generate three key visual insights:
 
- 1.Free Throw Attempts per Game - To assess player's frequency of attempting free throws.
- 2.Free Throw Accuracy - To evaluate players' efficiency in coverting free throws.
- 3.Player Playing Style Analysis - To identify player's scoring preferences between 2-point and 3-point shots, excluding free throws.
+1. Free Throw Attempts per Game - To assess player's frequency of attempting free throws.
+2. Free Throw Accuracy - To evaluate players' efficiency in coverting free throws.
+3. Player Playing Style Analysis - To identify player's scoring preferences between 2-point and 3-point shots, excluding free throws.
 
  This analysis aims to provide actionable insights into player performance and strong strategies.
 
