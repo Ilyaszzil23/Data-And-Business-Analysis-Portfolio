@@ -107,7 +107,7 @@ This analysis aims to support the World bank's understanding of global health an
 
 This query aims to efficiently retrieve and present employee status information for streamlined reporting and analysis.
 
-**Code:**
+**Code:** ['Employees CASE Statement.sql'](https://github.com/Ilyaszzil23/Portfolio-Projects/blob/main/Employees%20-%20CASE%20Statement.sql)
 
 **Raw Data:** ['Employees raw data'](https://www.dropbox.com/scl/fi/cs4nvueufh97f1oi9592t/employees.sql?rlkey=im4n5ff00ik69g2nfugrwdhk4&e=1&dl=0)
 
