@@ -140,7 +140,7 @@ This query aims  to provide a comprehensive view of salary progression for the s
 
 **Tools:** MYSQL, SQL Window function
 
-## Enchancing Customer Experience at Primark 
+## Enchancing Customer Experience at Primark (Business Analysis Fundementals)
 
 Please see in my [CV](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/4dde531039a9ee1772de3a3eec77704ae167ed0e/Ilyas_Mohamed_CV.pdf) for my work experience at Primark
 
@@ -166,4 +166,10 @@ These changes contributed to a **60% increase in customer satisfaction** scores.
 
 
 **Results & Conclusion:**
+The successful implementation of these strategies resulted in a measurable improvement in both customer satisfaction and repeat business. This experience reinforced my ability to:
+•	Identify business challenges through data analysis,
+•	Develop actionable insights aligned with business goals,
+•	Effectively communicate solutions to key stakeholders.
+
+This project demonstrates my ability to combine data analysis, customer insights, and problem-solving to drive positive business outcomes.
 
