@@ -131,7 +131,7 @@ This query aims to efficiently retrieve and present employee status information 
 
 This query aims  to provide a comprehensive view of salary progression for the specificed employees, facilitating trend analysis and informed decision-making.
 
-**Code:** ['Employees The LAG() and LEAD() Value Window Functions.sql'](https://github.com/Ilyaszzil23/Portfolio-Projects/blob/main/Employees%20-%20The%20LAG()%20and%20LEAD()%20Value%20Window%20Functions.sql)
+**Code:** ['Employees The LAG and LEAD Value Window Functions.sql'](https://github.com/Ilyaszzil23/Portfolio-Projects/blob/main/Employees%20-%20The%20LAG()%20and%20LEAD()%20Value%20Window%20Functions.sql)
 
 **Raw Data:** ['Employees raw data'](https://www.dropbox.com/scl/fi/cs4nvueufh97f1oi9592t/employees.sql?rlkey=im4n5ff00ik69g2nfugrwdhk4&e=1&dl=0)
 
