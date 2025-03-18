@@ -87,7 +87,7 @@ In this section I will list data and business analytics projects briefly describ
 
 This analysis aims to support the World bank's understanding of global health and demographic shifts.
 
-**Code:**
+**Code:** ['World Trends.ipynb'](https://github.com/Ilyaszzil23/Portfolio-Projects/blob/main/World%20Trends.ipynb)
 
 **Raw Data:**
 
