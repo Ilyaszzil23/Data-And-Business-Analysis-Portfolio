@@ -111,19 +111,27 @@ This query aims to efficiently retrieve and present employee status information 
 
 **Raw Data:** ['Employees raw data'](https://www.dropbox.com/scl/fi/cs4nvueufh97f1oi9592t/employees.sql?rlkey=im4n5ff00ik69g2nfugrwdhk4&e=1&dl=0)
 
-**Description:**
+**Skills:** Analysis, database management, SQL queries, JOIN operations, aggregation functions, conditional logic.
 
-**Skills:**
-
-**Tools:**
+**Tools:** MYSQL server, PostgreSQL, SQL case statement
 
 ## The LAG and LEAD Value Window Function in Employees
 
-**Goal statement:**
+**Goal statement:** The objective is to write an SQL query that extracts and analyses salary data from the "employee" database for employees numbered between **10500** and **10600** (inclusive). This query will:
 
-**Code:**
+1. Display salary values in asceding order.
+2. Include a column showing the previous salary in the ordered list.
+3. Include a column showing the subsequent salary in the ordered list.
+4. Calculate and display the difference between the current salary and the previous salary.
+5. Calculate and display the difference between the next salary and the current salary.
+6. Fliter results to include only salary values greater than $80,000.
+7. Ensure data is partitioned by employee numbers to produce meaningful insights.
 
-**Raw Data:**
+This query aims  to provide a comprehensive view of salary progression for the specificed employees, facilitating trend analysis and informed decision-making.
+
+**Code:** 
+
+**Raw Data:** ['Employees raw data'](https://www.dropbox.com/scl/fi/cs4nvueufh97f1oi9592t/employees.sql?rlkey=im4n5ff00ik69g2nfugrwdhk4&e=1&dl=0)
 
 **Description:**
 
