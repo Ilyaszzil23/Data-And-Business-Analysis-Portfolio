@@ -136,21 +136,34 @@ This query aims  to provide a comprehensive view of salary progression for the s
 **Raw Data:** ['Employees raw data'](https://www.dropbox.com/scl/fi/cs4nvueufh97f1oi9592t/employees.sql?rlkey=im4n5ff00ik69g2nfugrwdhk4&e=1&dl=0)
 
 
-**Skills:**
+**Skills:** Subsquries, SQL Window Function, data partitioning, database management, Analystical SQL, Data Analysis with SQL, Advanced SQL Queries.
 
-**Tools:**
+**Tools:** MYSQL, SQL Window function
 
-## Enchancing Customer Experience at Primark
+## Enchancing Customer Experience at Primark 
 
-**Goal statement:**
+Please see in my ['CV.pdf'](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/4dde531039a9ee1772de3a3eec77704ae167ed0e/Ilyas_Mohamed_CV.pdf) for my work experience at Primark
 
-**Defining the problem:**
+**Goal statement:** To improve customer statisfaction and shopping experience by identifying key issues, analysing feedback data, and recommending actionable solutions
 
-**Gathering and Analysing Requirements:**
+**Defining the problem:** While working at Primark, I identified that customer satisfaction levels were inconsistent, particularly among international shoppers. Challenges included language barriers, inefficient store layout, and customer service gaps.
 
-**Insights and Recommendations:**
+**Gathering and Analysing Requirements:** To understand the root causes:
+• I actively engaged with international customers using **translation apps**, ensuring clear communication and identifying language as a barrier to customer experience.
+• I analysed **customer feedback surveys**, identifying recurring themes such as difficulty navigating the store and product placement issues.
+• I documented customer pain points and categorised feedback to highlight trends, enabling me to prioritise key issues for improvement.
 
-**Communicating insights to Stakeholders:**
+
+**Insights and Recommendations:** Based on the data analysis, I identified that poor navigation was a major factor impacting satisfaction. I proposed:
+•	Adjusting the **store layout** to improve product visibility and streamline customer flow.
+•	Enhancing multilingual signage to better guide international customers.
+These changes contributed to a **60% increase in customer satisfaction** scores.
+
+
+**Communicating insights to Stakeholders:** I effectively presented my findings to store management, providing data-backed insights that influenced key operational decisions. Additionally:
+•	I collaborated with team leaders to implement my proposed layout changes.
+•	By improving customer service strategies, I contributed to a **15% increase in repeat customers.**
+
 
 **Results & Conclusion:**
 
