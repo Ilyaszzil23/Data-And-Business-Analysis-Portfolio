@@ -149,27 +149,27 @@ Please see in my [CV](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-
 **Defining the problem:** While working at Primark, I identified that customer satisfaction levels were inconsistent, particularly among international shoppers. Challenges included language barriers, inefficient store layout, and customer service gaps.
 
 **Gathering and Analysing Requirements:** To understand the root causes:
-•  I actively engaged with international customers using **translation apps**, ensuring clear communication and identifying language as a barrier to customer experience.
-•  I analysed **customer feedback surveys**, identifying recurring themes such as difficulty navigating the store and product placement issues.
-•  I documented customer pain points and categorised feedback to highlight trends, enabling me to prioritise key issues for improvement.
+-  I actively engaged with international customers using **translation apps**, ensuring clear communication and identifying language as a barrier to customer experience.
+-  I analysed **customer feedback surveys**, identifying recurring themes such as difficulty navigating the store and product placement issues.
+-  documented customer pain points and categorised feedback to highlight trends, enabling me to prioritise key issues for improvement.
 
 
 **Insights and Recommendations:** Based on the data analysis, I identified that poor navigation was a major factor impacting satisfaction. I proposed:
-•	 Adjusting the **store layout** to improve product visibility and streamline customer flow.
-•	 Enhancing multilingual signage to better guide international customers.
+-  Adjusting the **store layout** to improve product visibility and streamline customer flow.
+-  Enhancing multilingual signage to better guide international customers.
 These changes contributed to a **60% increase in customer satisfaction** scores.
 
 
 **Communicating insights to Stakeholders:** I effectively presented my findings to store management, providing data-backed insights that influenced key operational decisions. Additionally:
-•	 I collaborated with team leaders to implement my proposed layout changes.
-•	 By improving customer service strategies, I contributed to a **15% increase in repeat customers.**
+-  I collaborated with team leaders to implement my proposed layout changes.
+-  By improving customer service strategies, I contributed to a **15% increase in repeat customers.**
 
 
 **Results & Conclusion:**
 The successful implementation of these strategies resulted in a measurable improvement in both customer satisfaction and repeat business. This experience reinforced my ability to:
-•	 Identify business challenges through data analysis,
-•	 Develop actionable insights aligned with business goals,
-•	 Effectively communicate solutions to key stakeholders.
+-  Identify business challenges through data analysis,
+-  Develop actionable insights aligned with business goals,
+-  Effectively communicate solutions to key stakeholders.
 
 This project demonstrates my ability to combine data analysis, customer insights, and problem-solving to drive positive business outcomes.
 
