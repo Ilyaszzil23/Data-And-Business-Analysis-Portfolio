@@ -89,22 +89,27 @@ This analysis aims to support the World bank's understanding of global health an
 
 **Code:** ['World Trends.ipynb'](https://github.com/Ilyaszzil23/Portfolio-Projects/blob/main/World%20Trends.ipynb)
 
-**Raw Data:**
+**Raw Data:** ['Demographic-Data World trends.csv'](https://github.com/Ilyaszzil23/Portfolio-Projects/blob/main/Demographic-Data%20World%20trends.csv)
 
-**Description:**
+**Description:** This project utilised Python libraries such as Pandas for data manipulation and Matplotlib/Seaborn for data visualisation. Scatterplots were generated to reveal insights into how global health metrics have changed over time, while colour-coding by region provided clear visual distinctions for comparative analysis. Key insights into demographic trends were highlighted to support informed policy recommendations.
 
-**Skills:**
+**Skills:** data visualisation, data frame, statistical application, Extract-Transform-Load (ETL)
 
-**Tools:**
+**Tools:** Jupyter Notebook, Visual Studio Code (offline), matplotib, numpy, Seaborn, Pandas, Excel
 
 
 ## The SQL Case Statement in Employees
 
-**Goal statement:**
+**Goal statement:** The objective is to write an  SQL query that extracts the employee number, first name, and last name for the first 100 employees from the database. Additionally, ac calcuated column called "Current - employee" will be included indicating.
+
+ - "Is stiil employed" for active employees.
+ - "Not an employee anymore" for former employees.
+
+This query aims to efficiently retrieve and present employee status information for streamlined reporting and analysis.
 
 **Code:**
 
-**Raw Data:**
+**Raw Data:** ['Employees raw data'](https://www.dropbox.com/scl/fi/cs4nvueufh97f1oi9592t/employees.sql?rlkey=im4n5ff00ik69g2nfugrwdhk4&e=1&dl=0)
 
 **Description:**
 
