@@ -173,3 +173,9 @@ The successful implementation of these strategies resulted in a measurable impro
 
 This project demonstrates my ability to combine data analysis, customer insights, and problem-solving to drive positive business outcomes.
 
+**Key Skills Demonstrated:**
+
+✅ Data Analysis (using feedback data for insights)
+✅ Problem Solving (identifying and addressing customer pain points)
+✅ Stakeholder Communication (presenting insights to management)
+✅ Customer-Centric Approach (enhancing the overall shopping experience)
