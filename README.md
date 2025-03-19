@@ -45,13 +45,13 @@ This is a repository to showcase skills, share projects and track my progress in
      - [Enchancing Customer Experience at Primark](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#Enchancing-Customer-Experience-at-Primark)
 
 
- - Education
+ - [Education](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#Education)
 
 
- - Certificates
+ - [Certificates](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#Certificates)
 
 
- - Contact
+ - [Contact](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/README.md#Contact)
 
 
 
@@ -178,4 +178,47 @@ This project demonstrates my ability to combine data analysis, customer insights
 -  Data Analysis (using feedback data for insights) ✅  
 -  Problem Solving (identifying and addressing customer pain points) ✅  
 -  Stakeholder Communication (presenting insights to management) ✅  
--   Customer-Centric Approach (enhancing the overall shopping experience) ✅  
+-   Customer-Centric Approach (enhancing the overall shopping experience) ✅
+
+
+## Education
+
+**BSc (Joint Honours) in Business and Mathematics (2:1)**
+University of Hertfordshire - Graduated in 2021
+
+**Relevant Modules for Tech/Programming Roles:**
+
+- Mathematics Techniques level 1 & 2
+- Linear Algebra
+- Differential Equations
+- Number Theory
+- Nonlinear Theory
+- Nonlinear Systems
+- Combinatorics
+
+**Relevant Modules for Business Analysis/Data-Driven Roles:**
+- Business Analysis Tools
+- Quantitative Methods for Business
+- Financial Analysis Techniques
+- Management Science in Business
+- Performance Strategy
+- Principles of Operations Management
+
+**Key skills:**
+- Analytical Thinking & Problem-Solving
+- Data Analysis & Visualisation
+- Financial Modeling & Business Strategy
+- Mathematical Optimisation & Statistical Techniques
+
+This combination of skills and knowledge allows me to bridge the gap between **technical development** and **business insights**, ensuring data-driven decision-making and effective problem-solving.
+
+
+## Certificates
+
+
+
+## Contact
+
+
+
+
