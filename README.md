@@ -16,7 +16,7 @@ I am enthusiastic about exploring emerging technologies and advancing my skills 
 My ultimate goal is to become a professional Freelance Data & Business Analyst, supporting businesses in driving innovation and improving their impact on society.
 I believe that with dedication, continuous learning, and perseverance, I can help businesses unlock their full potential for a better world.
 
-My CV in [pdf](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/4dde531039a9ee1772de3a3eec77704ae167ed0e/Ilyas_Mohamed_CV.pdf).
+My CV in [pdf](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/Ilyas_Mohamed_CV.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data & Business Analytics related topics.
 
@@ -142,7 +142,7 @@ This query aims  to provide a comprehensive view of salary progression for the s
 
 ## Enchancing Customer Experience at Primark (Business Analysis Fundementals)
 
-Please see in my [CV](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/4dde531039a9ee1772de3a3eec77704ae167ed0e/Ilyas_Mohamed_CV.pdf) for my work experience at Primark
+Please see in my [CV](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/Ilyas_Mohamed_CV.pdf) for my work experience at Primark
 
 **Goal statement:** To improve customer statisfaction and shopping experience by identifying key issues, analysing feedback data, and recommending actionable solutions
 
