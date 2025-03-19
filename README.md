@@ -219,7 +219,7 @@ To support my academic background, I have also completed several certifications 
 
 - [Excel (Nov 2021)](https://www.udemy.com/certificate/UC-eecbc119-e324-4e76-8471-b8acc234cd4d/)
 - [Python (Mar 2022)](https://www.udemy.com/certificate/UC-baf8f1d5-a867-43fc-bc35-3a4f0a5db8ab/)
-- [The SQL Bootcamp(Apr 2022)](https://www.udemy.com/certificate/UC-7bcc7ceb-432a-4879-b336-eaee35b5264b/)
+- [The SQL Bootcamp (Apr 2022)](https://www.udemy.com/certificate/UC-7bcc7ceb-432a-4879-b336-eaee35b5264b/)
 - [Power BI - Data Analytics (Jun 2022)](https://www.udemy.com/certificate/UC-102aa202-6dfc-46ee-97ca-69e4d627ead7/)
 - [Business Analysis fundamental (Apr 2024)](https://www.udemy.com/certificate/UC-9b0193bd-a00b-48ee-843a-67d8fe2dfd1e/)
 
