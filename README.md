@@ -227,7 +227,7 @@ To support my academic background, I have also completed several certifications 
 
 ## Contact
 
-- LinkedIn:[Ilyas88](www.linkedin.com/in/ilyas88)
-- Email: ilyasM23@outlook.com
+- LinkedIn:[Ilyas88](https://www.linkedin.com/in/ilyas88)
+- Email:  ilyasM23@outlook.com
 
 
