@@ -1,19 +1,19 @@
 # Ilyas Mohamed - Data / Business Analyst Portfolio
 
-## Hi, I hope you enjoy reading my Portfolio Project!
+## Hi, I hope you enjoy reading my portfolio project!
 
 ## About
 
 I am Ilyas, an ambitious individual with a strong background in Business and Mathematics (Joint Honours). With a passion for data analysis and problem-solving, I am currently 
-expanding my expertise through Business Intelligence courses on Udemy.
+expanding my expertise through **Business Intelligence courses on Udemy**.
 
 My journey in programming has equipped me with essential skills such as Python, Data Visualisation, Forecasting, and Mathematical Concepts. Alongside technical skills, I have
 also developed strong Business Analysis capabilities, including defining business problems, gathering and analysing data, and effectively communicating insights to stakeholders.
 
-In my current role as a Part-time Assistant Accountant, I help clients navigate financial challenges, such as Tax Returns, Business Registrations, and Tax Assessments.
+In my current role as a **Part-time Assistant Accountant**, I help clients navigate financial challenges, such as Tax Returns, Business Registrations, and Tax Assessments.
 I am enthusiastic about exploring emerging technologies and advancing my skills in programming. 
 
-My ultimate goal is to become a professional Freelance Data & Business Analyst, supporting businesses in driving innovation and improving their impact on society.
+My ultimate goal is to become a **professional Freelance Data & Business Analyst**, supporting businesses in driving innovation and improving their impact on society.
 I believe that with dedication, continuous learning, and perseverance, I can help businesses unlock their full potential for a better world.
 
 My CV in [pdf](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-Portfolio/blob/main/Ilyas_Mohamed_CV.pdf).
@@ -61,10 +61,10 @@ In this section I will list data and business analytics projects briefly describ
 
 ## Basketball Free Throws
 
-**Goal statement:** The objective to  analyse basketball free throws performance and player scoring tendencies using the  provided data. This will involve creating two matrices from the given vectors to generate three key visual insights:
+**Goal statement:** The objective to  analyse basketball free throws performance and player scoring tendencies using the provided data. This will involve creating two matrices from the given vectors to generate three key visual insights:
 
 1. Free Throw Attempts per Game - To assess player's frequency of attempting free throws.
-2. Free Throw Accuracy - To evaluate players' efficiency in coverting free throws.
+2. Free Throw Accuracy - To evaluate players' efficiency in converting free throws.
 3. Player Playing Style Analysis - To identify player's scoring preferences between 2-point and 3-point shots, excluding free throws.
 
  This analysis aims to provide actionable insights into player performance and strong strategies.
@@ -97,12 +97,12 @@ This analysis aims to support the World bank's understanding of global health an
 
 **Skills:** data visualisation, data frame, statistical application, Extract-Transform-Load (ETL)
 
-**Tools:** Jupyter Notebook, Visual Studio Code (offline), matplotib, numpy, Seaborn, Pandas, Excel
+**Tools:** Jupyter Notebook, Visual Studio Code (offline), Matplotib, Numpy, Seaborn, Pandas, Excel
 
 
 ## The SQL Case Statement in Employees
 
-**Goal statement:** The objective is to write an  SQL query that extracts the employee number, first name, and last name for the first 100 employees from the database. Additionally, ac calcuated column called "Current - employee" will be included indicating.
+**Goal statement:** The objective is to write an  SQL query that extracts the employee number, first name, and last name for the first 100 employees from the database. Additionally, a calcuated column called "Current - employee" will be included indicating.
 
  - "Is stiil employed" for active employees.
  - "Not an employee anymore" for former employees.
@@ -113,7 +113,7 @@ This query aims to efficiently retrieve and present employee status information 
 
 **Raw Data:** ['Employees raw data'](https://www.dropbox.com/scl/fi/cs4nvueufh97f1oi9592t/employees.sql?rlkey=im4n5ff00ik69g2nfugrwdhk4&e=1&dl=0)
 
-**Skills:** Analysis, database management, SQL queries, JOIN operations, aggregation functions, conditional logic.
+**Skills:** Analysis, Database Management, SQL queries, JOIN operations, Aggregation Functions, Conditional Logic.
 
 **Tools:** MYSQL server, PostgreSQL, SQL case statement
 
@@ -121,7 +121,7 @@ This query aims to efficiently retrieve and present employee status information 
 
 **Goal statement:** The objective is to write an SQL query that extracts and analyses salary data from the "employee" database for employees numbered between **10500** and **10600** (inclusive). This query will:
 
-1. Display salary values in asceding order.
+1. Display salary values in ascending order.
 2. Include a column showing the previous salary in the ordered list.
 3. Include a column showing the subsequent salary in the ordered list.
 4. Calculate and display the difference between the current salary and the previous salary.
@@ -136,7 +136,7 @@ This query aims  to provide a comprehensive view of salary progression for the s
 **Raw Data:** ['Employees raw data'](https://www.dropbox.com/scl/fi/cs4nvueufh97f1oi9592t/employees.sql?rlkey=im4n5ff00ik69g2nfugrwdhk4&e=1&dl=0)
 
 
-**Skills:** Subsquries, SQL Window Function, data partitioning, database management, Analystical SQL, Data Analysis with SQL, Advanced SQL Queries.
+**Skills:** Subsquries, SQL Window Function, Data Partitioning, Database Management, Analystical SQL, Data Analysis with SQL, Advanced SQL Queries.
 
 **Tools:** MYSQL, SQL Window function
 
@@ -192,7 +192,7 @@ University of Hertfordshire - Graduated in 2021
 - Linear Algebra
 - Differential Equations
 - Number Theory
-- Nonlinear Theory
+- Real Analysis
 - Nonlinear Systems
 - Combinatorics
 
