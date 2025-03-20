@@ -151,7 +151,7 @@ Please see in my [CV](https://github.com/Ilyaszzil23/Data-And-Business-Analysis-
 **Gathering and Analysing Requirements:** To understand the root causes:
 -  I actively engaged with international customers using **translation apps**, ensuring clear communication and identifying language as a barrier to customer experience.
 -  I analysed **customer feedback surveys**, identifying recurring themes such as difficulty navigating the store and product placement issues.
--  documented customer pain points and categorised feedback to highlight trends, enabling me to prioritise key issues for improvement.
+-  I documented customer pain points and categorised feedback to highlight trends, enabling me to prioritise key issues for improvement.
 
 
 **Insights and Recommendations:** Based on the data analysis, I identified that poor navigation was a major factor impacting satisfaction. I proposed:
