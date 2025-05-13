@@ -186,7 +186,7 @@ This project demonstrates my ability to combine data analysis, customer insights
 **BSc (Joint Honours) in Business and Mathematics (2:1)**
 University of Hertfordshire - Graduated in 2021
 
-**Relevant Modules for Tech/Programming Roles:**
+**Relevant Modules for Tech/Programming Roles (Mathematics):**
 
 - Mathematics Techniques level 1 & 2
 - Linear Algebra
@@ -196,7 +196,7 @@ University of Hertfordshire - Graduated in 2021
 - Nonlinear Systems
 - Combinatorics
 
-**Relevant Modules for Business Analysis/Data-Driven Roles:**
+**Relevant Modules for Business Analysis/Data-Driven Roles (Business):**
 - Business Analysis Tools
 - Quantitative Methods for Business
 - Financial Analysis Techniques
